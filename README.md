@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://app.rocketseat.com.br/me/azanniel">
-    <img src="https://img.shields.io/badge/LICENSE-MIT-177FA7?style=for-the-badge" alt="Rocketseat-profile" />
+    <img src="https://img.shields.io/badge/ROCKETSEAT-AZANNIEL-177FA7?style=for-the-badge" alt="Rocketseat-profile" />
   </a>
 
 </div>
